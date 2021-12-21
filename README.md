@@ -1,9 +1,14 @@
 # Advent of Code 2021
 
+
+I will try to complete all AoC tasks using the Rust programming language and without any external libraries.
+
+*The best reason to learn Rust!*
+
 ## Progress
 
-- [x] Day 1
-- [ ] Day 2
+- [x] Day 1 ⭐⭐
+- [x] Day 2 ⭐⭐
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
